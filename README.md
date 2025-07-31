@@ -1,0 +1,2 @@
+# enhanced_csro_250722522v1_recognizing_actions_from_robotic_view_for_natural_
+AI-Generated Project: enhanced_cs.RO_2507.22522v1_Recognizing_Actions_from_Robotic_View_for_Natural_ - Created by WATCHDOG Multi-Agent System
